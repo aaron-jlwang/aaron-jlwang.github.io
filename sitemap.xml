@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>aaronjianlanwang.github.io/2019/08/20/Markdown-Reference-Page/</loc>
+    
+    <lastmod>2020-08-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>aaronjianlanwang.github.io/2018/05/18/Ubuntu-Common-Instruction-Set/</loc>
+    
+    <lastmod>2020-08-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>aaronjianlanwang.github.io/galleries/index.html</loc>
     
     <lastmod>2020-08-28</lastmod>
@@ -51,20 +65,6 @@
   </url>
   
   <url>
-    <loc>aaronjianlanwang.github.io/2018/05/18/Ubuntu-Common-Instruction-Set/</loc>
-    
-    <lastmod>2020-08-25</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>aaronjianlanwang.github.io/2019/08/20/Markdown-Reference-Page/</loc>
-    
-    <lastmod>2020-08-24</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>aaronjianlanwang.github.io/record/index.html</loc>
     
     <lastmod>2020-08-20</lastmod>
@@ -74,71 +74,78 @@
 
   <url>
     <loc>aaronjianlanwang.github.io</loc>
-    <lastmod>2020-08-28</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>aaronjianlanwang.github.io/tags/Technical/</loc>
+    <lastmod>2020-08-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>aaronjianlanwang.github.io/tags/Ref-Page/</loc>
-    <lastmod>2020-08-28</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>aaronjianlanwang.github.io/tags/MD/</loc>
-    <lastmod>2020-08-28</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>aaronjianlanwang.github.io/tags/Ubuntu/</loc>
-    <lastmod>2020-08-28</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>aaronjianlanwang.github.io/tags/Linux/</loc>
-    <lastmod>2020-08-28</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>aaronjianlanwang.github.io/tags/%E9%8B%BC%E4%B9%8B%E7%85%89%E9%87%91%E8%A1%93%E5%A3%AB/</loc>
-    <lastmod>2020-08-28</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>aaronjianlanwang.github.io/tags/FA/</loc>
-    <lastmod>2020-08-28</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>aaronjianlanwang.github.io/tags/fullmetal-alchemist/</loc>
-    <lastmod>2020-08-28</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>aaronjianlanwang.github.io/tags/Fantasy/</loc>
-    <lastmod>2020-08-28</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>aaronjianlanwang.github.io/tags/%E6%BC%AB%E7%95%AB/</loc>
-    <lastmod>2020-08-28</lastmod>
+    <lastmod>2020-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
